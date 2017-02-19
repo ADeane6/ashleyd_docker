@@ -7,7 +7,6 @@ ENV INITRD No
 ENV LANG en_US.UTF-8
 
 RUN apt-get install -y python3-pip python3-dev
-
 # Define working directory.
 WORKDIR /data
 

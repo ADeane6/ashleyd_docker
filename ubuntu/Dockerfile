@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:14.04
 
 MAINTAINER Ashley Deane <bbbiiittt1198@gmail.com>
 
